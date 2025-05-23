@@ -2,7 +2,7 @@
 
 > Explores long-range dependencies in hierarchical human body, an efficient single-frame monocular 3D human pose estimation method. 
 
-![vis.png](C:\Users\62376\Desktop\代码整理\figure\vis.png)
+![vis.png](figure/vis.png)
 
 ## Dataset
 
@@ -26,6 +26,8 @@ The PGFormer code for data preparation is borrowed from [VideoPose3D](https://g
 We recommend constructing the Pytorch runtime environment by referring to the baselines ([SemGCN](https://github.com/garyzhao/SemGCN),[MGCN](https://github.com/ZhimingZo/Modulated-GCN),[MHFormer](https://github.com/Vegetebird/MHFormer),[DiffPose](https://github.com/GONGJIA0208/Diffpose)) of each part. PGFormer code has been tested and runs well under both Linux and Windows. DiffPyramid code has been tested and runs well under Linux.
 
 ## Pretrained model
+
+You can download pretained model [here](https://drive.google.com/drive/folders/1DspzL3GWH2nJ_4aGFHnlcPN9N1bLxzum?usp=sharing).
 
 ## Test
 
