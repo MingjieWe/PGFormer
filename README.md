@@ -1,5 +1,6 @@
 # Learning Pyramid-structured Long-range Dependencies for 3D Human Pose Estimation [TMM 2025]
 
+> [paper](https://ieeexplore.ieee.org/abstract/document/10858746) and [arxiv](http://arxiv.org/abs/2506.02853)
 > Explores long-range dependencies in hierarchical human body, an efficient single-frame monocular 3D human pose estimation method. 
 
 ![vis.png](figure/vis.png)
